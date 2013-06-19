@@ -4,7 +4,7 @@ const path = require('path');
 const { DateTime } = require('luxon');
 
 // Configuration
-const START_DATE = '2013-05-23';
+const START_DATE = '2013-01-01';
 const END_DATE = '2013-12-31';
 const SKIP_PROBABILITY = 0.3;
 const MIN_WORDS = 5;
